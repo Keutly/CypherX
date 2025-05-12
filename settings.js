@@ -7,7 +7,7 @@
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +2250788145722
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -19,7 +19,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~mroUVDDL#Njc66UXcMswZwV-q_nCyvDyzhV1LcmLAVmAfRZc9V-k' 
+global.SESSION_ID = process.env.SESSION_ID || 'CYPHER-X:~UEsDBBQAAAgIAIEqrFqIa99idgUAACUJAAAKAAAAY3JlZHMuanNvbpVWXYvzWhX+L*u2fU++26QwYJpJ89VM04+0TURkJ9lJd5uvJmmS9mXgXOmNdw4K4nuOCAp64634H17QC*FW*AXzEyTTGWbweF7HQiHsrj7rWWs969n5CNIMl8hAZzD6CPIC17BC3WN1zhEYgfEpDFEB+iCAFQQjcLR0GK9beHGN29BR1oLYTInZhpQ8NzPkbBucXRtHjGPT2Q2474P85MXY*wIgVMxVz8ZiVejD2F9IUV00iWJx23HeTHhp4F2Wl2SiBTLJ3oD7DhHiAqeRnO9QggoYG+hsQVy8jz6ylnueb0zMGDTjWMeAiwcroTVq+85TjcN0G7KKeuL2*sF5H*1ISUym9V3NHATtZjvYJhRfy41kLMaFYYaTjSEr86qn7lrySr*EUYoCLUBphavzu*suKXfHZVxSA3e*vMg14WAds3nrBkF9GMp0brK6VSdCeyTN9xHfHlNnQvNx4ojzYRJ7u+PCdV1V3XtbYr1slzvdZ2xZzcex+Ja4Vbxo5fD*9N00ho0w0Em+boUyGdPy*ng+UGPOJJi537pkfhprokw4c7t5H31jKfYmx+RYC*yqPBBayezqM2tNacnYrCYGPVsI+WDNrafr+St9WJ2KL7FckcTCIwgJeTy17q1rX6U1IyinMjFL5ZWzcXvacNcjW4XL0awm+aqxfNQwdLzJjWowv+WWtnkXovElFHTWXgy51b6VxJunig7orAVgRN33QYEiXFYFrHCWPp0xbB*AoF4iv0DVU3vBZMWJBwnX5WyDC2Xmrw8nI6ai5aqd8eOj7k2njL*VtrpLmDegD*Ii81FZokDFZZUVZxOVJYxQCUY*fJpUV3SBkqxCOg7ACNA0x*MUyw1p+gflV80OViXM869SVIE+CIssMREYVcUJ9cE1nhdIjhQH4q3A8aJES8JEpmmZGsiSJAo011WYXHOucILKCiY5GFFDdkjSQ5ok73*UBylqq6t8uqIZqg9CXJSVnZ7yOIPBi7ZefoS+n53SanlOfal7QAUYvTlGVYXTqOwKO6Ww8He4RlJXBxiFMC7RfR8EqMY+6vAA00hHpdGqBUV7xZL9cW3OVaPpGrfL0mtI6AcBCoXhB4obUB9YkkYfeI5kP*hDyNICixA5FEDXjuvmdv*5XiEdyEoNAsRvvDFd6NB1zpfxZGIbe*G6nVcFoAIFL132oH845avsgNIvuU0z0xhLLW3vVolPTcYpmRavayYInTe4V2WB0cdXt5SyoMO7NZnNxqBk0E2ry*OfYhgNmO*qIb5GCTQ95DiWI0meIrvA7rwPUthBgcef*+QPj7*4za*+pe*Pfzzz7*9+0*8bvHb3*29b++fvj87edvPn*z+OmXv3r89PCnx08Pv3*89PDH7ttRfp5nRyZAFcRx2bmdjv0sP8jyrKfvSllRRDISpUgEr*N*WefrulhMT9rzTolZLAZUa9nCZhwgarw3Wvoyd8LzxRJgsF8I7fzmv4CAEdgHl1ZotItXp7S+Fe7q*LZdHsmL5w3zi29Lpsc6O5FGkdjr0cdjL8ovKCX0u9u4IFK4GcA5ZytQcXk+nGUHerq4WD2puemyXXX4Nlmqlqc715M5iZvmKNxt0ukdYjhXO7pcNeTVApN3g4WEGIIYsI2eWESdqRNM2caeX0B9r5RHistRvtkcBBPHdWRPT0*JXowufr5g8LMFXFUbYvTk188j+19zf90f8r7*BuL5AvgejY5XAhFlhDLVTlqkBv6KstbRdlvNnXMZlKSi8uWF2KQOGfo2uO+MIY9hFWZF0r0NpEGRPcmqyE7dgmtpmH3pWhQjTY6uhcewrMRX0*iuD1HC4BplFVmuwnLX9cCinF3Y7cNZzPNlBasXDwLi04degPt*A1BLAQIUAxQAAAgIAIEqrFqIa99idgUAACUJAAAKAAAAAAAAAAAAAACAgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAJ4FAAAAAA==' 
 // You know the drill. Put your CypherX session id here. Should look like: XPLOADER-BOT:~ (don't forget that, it's crucial!)
 
 //--------------------[ BOT NAME ]----------------------//
